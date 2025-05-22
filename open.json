@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Masters 2025",
+          "name": "Masters 2025 - Open",
+          "short": "Masters Open",
+          "task": "https://www.soaringspot.com/en_gb/rayskala-masters/results/open",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/masters2025/main/glidersOpen"
+}
