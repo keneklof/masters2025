@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Masters 2025",
+          "name": "Masters 2025 - Club class",
+          "short": "Masters Club",
+          "task": "https://www.soaringspot.com/en_gb/jannen-kisat-2024/results/kerholuokka",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/masters2025/main/glidersClub"
+}
