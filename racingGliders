@@ -6,5 +6,6 @@
 {"name":"Hannu Niemi [Nuorisoilmailijat]","cn":"N8","glider":"LS-8a","comp":"Racing","flarm":["465B44"]},
 {"name":"Rostyslav Redchuk [Hyvinkään Ilmailukerho]","cn":"HY","glider":"LS-8a","comp":"Racing","flarm":["D0275A"]},
 {"name":"Elias Severholt Fourati [Östra Sörmlands Flygklubb]","cn":"1","glider":"LS-8","comp":"Racing","flarm":["D00EBA"]},
-{"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EZ","glider":"ASG-29","comp":"Racing","flarm":["DDE439"]}
+{"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EZ","glider":"ASG-29","comp":"Racing","flarm":["DDE439"]},
+{"name":"Martti Sucksdorff [Räyskälän Ilmailukerho]","cn":"AN","glider":"DG 1000T","comp":"Open","flarm":["---"]}
 ]
