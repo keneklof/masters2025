@@ -8,5 +8,6 @@
 {"name":"Elias Severholt Fourati [Östra Sörmlands Flygklubb]","cn":"1","glider":"LS-8","comp":"Racing","flarm":["D00EBA"]},
 {"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EZ","glider":"ASG-29","comp":"Racing","flarm":["DDE439"]},
 {"name":"Martti Sucksdorff [Räyskälän Ilmailukerho]","cn":"AN","glider":"DG 1000T","comp":"Open","flarm":["---"]},
-{"name":"Heikki Horma [Räyskälän Ilmailukerho]","cn":"HIK","glider":"Duo Discus","comp":"Open","flarm":["DDDA62"]}
+{"name":"Heikki Horma [Räyskälän Ilmailukerho]","cn":"HIK","glider":"Duo Discus","comp":"Open","flarm":["DDDA62"]},
+{"name":"Peder Lindbom [Segelflygarna Uppsala]","cn":"AKF","glider":"Duo Discus XLT","comp":"Open","flarm":["4AD6CC"]}
 ]
